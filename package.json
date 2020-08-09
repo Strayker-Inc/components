@@ -1,6 +1,6 @@
 {
   "name": "@strayker/components",
-  "version": "1.0.0-beta-1",
+  "version": "1.0.0-beta-2",
   "description": "Strayker web components",
   "author": "Strayker Core Team",
   "main": "dist/index.js",
