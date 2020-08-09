@@ -22,6 +22,21 @@
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strayker-inc/components"
+  },
+  "bugs": {
+    "url": "https://github.com/strayker-inc/components/issues"
+  },
+  "keywords": [
+    "components",
+    "frontend",
+    "strayker"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@stencil/core": "^1.17.3"
   },
